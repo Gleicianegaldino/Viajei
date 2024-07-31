@@ -1,7 +1,10 @@
 # Viajei - Agência de turismo
-O projeto foi desenvolvido através do Santander Bootcamp Fullstack Developer, seu objetivo foi colocar em prática os conhecimentos adquiridos no curso Posicionando elementos com Flexbox em CSS.
+O projeto foi desenvolvido através do Santander Bootcamp Fullstack Developer, com objetivo foi colocar em prática os conhecimentos adquiridos no curso Posicionando elementos com Flexbox em CSS.
 
 Prof: Karen Santos - Dio.
+
+## Deploy
+https://viajei-gg.netlify.app/
 
 # Preview
 
